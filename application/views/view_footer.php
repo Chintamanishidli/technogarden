@@ -44,7 +44,9 @@
                         <?php echo form_close(); ?>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-6"></div>
+                <div class="col-lg-3 col-md-6"></div>
+                <!-- <div class="col-lg-3 col-md-6">
                     <div class="footer-item footer-recent-post">
                         <h3><?php echo FOOTER_2_HEADING; ?></h3>
                         <ul>
@@ -62,8 +64,8 @@
                             ?>
                         </ul>
                     </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
+                </div> -->
+                <!-- <div class="col-lg-3 col-md-6">
                     <div class="footer-item">
                         <h3><?php echo FOOTER_3_HEADING; ?></h3>
                         <div class="row pl-10 pr-10">                            
@@ -83,7 +85,7 @@
                             ?>                            
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-item">
                         <h3><?php echo FOOTER_4_HEADING; ?></h3>
