@@ -2088,6 +2088,41 @@ Portfolio
 
 
 
+.portfolio-carousel .owl-nav .owl-prev,
+.portfolio-carousel .owl-nav .owl-next {
+    text-align: center;
+    font-size: 18px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    line-height: 38px;
+    top: 30%;
+    transform: translateY(-50%);
+    /* background: #313131; */
+    color: #313131;
+    transition: all 0.3s;
+}
+
+.portfolio-carousel .owl-nav .owl-prev {
+    left: -20px; /* Adjust based on layout */
+}
+
+.portfolio-carousel .owl-nav .owl-next {
+    right: -20px; /* Adjust based on layout */
+}
+
+.portfolio-carousel .owl-nav .owl-prev:hover,
+.portfolio-carousel .owl-nav .owl-next:hover {
+    /* background: #313131; */
+    color: #313131;
+}
+
+
+
+
+
+
+
 
 
 
